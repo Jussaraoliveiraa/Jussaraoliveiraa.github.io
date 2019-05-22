@@ -1,0 +1,30 @@
+﻿{
+	"version": 1558551715,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/starshipcontroller-sheet0.png",
+		"images/shootbutton-sheet0.png",
+		"images/shootbutton-sheet1.png",
+		"images/bulletcontroller-sheet0.png",
+		"images/baixo-sheet0.png",
+		"images/baixo-sheet1.png",
+		"images/cima-sheet0.png",
+		"images/esqueeda-sheet0.png",
+		"images/direita-sheet0.png",
+		"images/direita-sheet1.png",
+		"images/background-sheet0.png",
+		"images/enemys-sheet0.png",
+		"images/destroy-sheet0.png",
+		"images/energy-sheet0.png",
+		"images/energyy-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
