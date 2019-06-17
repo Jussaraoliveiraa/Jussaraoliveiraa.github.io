@@ -20007,8 +20007,8 @@ cr.behaviors.solid = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Arr,
 	cr.plugins_.Keyboard,
-	cr.plugins_.Touch,
 	cr.plugins_.Sprite,
+	cr.plugins_.Touch,
 	cr.behaviors.EightDir,
 	cr.behaviors.bound,
 	cr.behaviors.Timer,
